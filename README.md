@@ -1,7 +1,7 @@
 ## Screenshots
 
 ### Login Page
-![DSA-Home](./DSA-Images/Login.png)
+![DSA-Home](./Images/Login.png)
 
 ### Property Page
-![Question](./Property/Question.png)
+![Question](./Images/Property.png)
