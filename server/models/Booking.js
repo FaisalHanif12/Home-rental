@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-
+// this is boooking schema
 const BookingSchema = new mongoose.Schema(
   {
     customerId: {
